@@ -1,0 +1,4 @@
+DEMO_otworz_mnie.html — pelna strona w jednym pliku, bez potrzeby osobnych CSS/JS.
+index.html + styles.css + script.js — pliki do edycji i publikacji na hostingu.
+Aby wyswietlic kolorowe demo bezproblemowo, otworz DEMO_otworz_mnie.html.
+Formularz jest demonstracyjny.
